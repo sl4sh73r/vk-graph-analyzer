@@ -489,3 +489,4 @@ MIT
 - [VK_FLOOD_CONTROL.md](./VK_FLOOD_CONTROL.md) — Решение проблем с Flood control
 - [REACT_STRICTMODE_OAUTH.md](./REACT_STRICTMODE_OAUTH.md) — Исправление двойного вызова OAuth
 - [VK_API_TOKEN_INFO.md](./VK_API_TOKEN_INFO.md) — Информация о токенах VK API
+- [GRAPH_CENTRALITY_MATH.md](./GRAPH_CENTRALITY_MATH.md) — Теория графов и метрики центральности с формулами и примерами

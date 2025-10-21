@@ -140,4 +140,4 @@ $$
 - Freeman, L. C. (1977). A set of measures of centrality based on betweenness
 - Newman, M. E. J. (2010). Networks: An Introduction
 - Brandes, U. (2001). A faster algorithm for betweenness centrality
-- Документация graphology metrics: https://graphology.github.io/standard-library/metrics.html
+- Документация graphology metrics: [graphology metrics](https://graphology.github.io/standard-library/metrics.html)

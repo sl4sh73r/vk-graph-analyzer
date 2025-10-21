@@ -78,9 +78,12 @@ cp backend/.env.example backend/.env
 
 Заполните:
 ```properties
+### Backend (.env)
+
+```properties
 # VK OAuth App credentials
-VK_APP_ID=54255869
-VK_CLIENT_SECRET=ваш_client_secret
+VK_APP_ID=ваш_app_id_здесь
+VK_CLIENT_SECRET=ваш_client_secret_здесь
 VK_REDIRECT_URI=https://ваш-домен.ngrok-free.app/auth/callback
 PORT=4000
 CORS_ORIGIN=https://ваш-домен.ngrok-free.app
@@ -102,7 +105,7 @@ cp frontend/.env.example frontend/.env
 
 Заполните:
 ```properties
-VITE_VK_APP_ID=54255869
+VITE_VK_APP_ID=ваш_app_id_здесь
 VITE_VK_REDIRECT_URI=https://ваш-домен.ngrok-free.app/auth/callback
 ```
 

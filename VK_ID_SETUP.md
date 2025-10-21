@@ -76,7 +76,7 @@ https://ваш-домен.ngrok-free.app/auth/callback
 #### 3.3 Получите креденшиалы
 
 Сохраните:
-1. **App ID** (числовой идентификатор, например: `54255869`)
+1. **App ID** (числовой идентификатор, например: `51976342`)
 2. **Client Secret** (секретный ключ приложения)
 
 #### 3.4 Получите Service Key (опционально)
@@ -91,7 +91,7 @@ https://ваш-домен.ngrok-free.app/auth/callback
 
 ```properties
 # VK OAuth App credentials
-VK_APP_ID=54255869
+VK_APP_ID=ваш_app_id_здесь
 VK_CLIENT_SECRET=ваш_client_secret_здесь
 VK_REDIRECT_URI=https://ваш-домен.ngrok-free.app/auth/callback
 
@@ -114,7 +114,7 @@ VK_INITIAL_COOLDOWN_SEC=10
 #### Frontend (frontend/.env):
 
 ```properties
-VITE_VK_APP_ID=54255869
+VITE_VK_APP_ID=ваш_app_id_здесь
 VITE_VK_REDIRECT_URI=https://ваш-домен.ngrok-free.app/auth/callback
 ```
 

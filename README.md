@@ -459,9 +459,6 @@ location /api {
 
 MIT
 
-## Автор
-
-[Ваше имя / GitHub username]
 
 ## Благодарности
 
